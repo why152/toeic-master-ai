@@ -1,0 +1,5 @@
+{
+  "name": "TOEIC Master AI",
+  "description": "An intelligent TOEIC practice platform with multi-language support (Chinese/Japanese/English). Features Part 5 & 6 practice, performance tracking, and AI coaching.",
+  "requestFramePermissions": []
+}
